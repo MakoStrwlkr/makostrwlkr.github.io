@@ -2,7 +2,9 @@
 
 Yeah, this is a Work-In-Progress. Clearly, there's more work to be done. MUCH MORE WORK TO BE DONE.
 
-I guess I'll do this properly once the semester ends.
+~~I guess I'll do this properly once the semester ends.
+
+I've been doing some cleaning up, and adding more stuff. Probably I can even have the website up and running by tomorrow. FIngers crossed.
 
 Credits:
   	Template: 
