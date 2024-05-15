@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: notes
+permalink: /notes/
+description: Some short notes from over the years.
 nav: true
-nav_order: 3
-display_categories: [compsci, work, fun]
+nav_order: 4
+display_categories: [work, fun]
 horizontal: false
 ---
 
