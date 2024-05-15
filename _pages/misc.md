@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
-nav_order: 3
+title: miscellaneous
+permalink: /misc/
+description: An assortment of miscellaneous content from over the years.
+nav: false
+nav_order: 0
 display_categories: [compsci, math, work, fun]
 horizontal: false
 ---

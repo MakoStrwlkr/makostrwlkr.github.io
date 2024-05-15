@@ -14,6 +14,6 @@ children:
   - title: repositories
     permalink: /repositories/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: misc
+    permalink: /misc/
 ---
