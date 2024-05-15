@@ -13,13 +13,13 @@ nav_order: 6
 
 Teaching
 
-- [CSC310 Information Theory teaching sssistant: Winter 2024]()
-- [UofT Quantum Computing Club: qLearn (Algorithms) Series Winter 2023]()
-- [UofT Quantum Computing Club: qLearn (Algorithms) Series Fall 2023]()
+- [CSC310 Information Theory teaching assistant: Winter 2024](https://q.utoronto.ca/courses/334543)
+- UofT Quantum Computing Club: qLearn (Algorithms) Series Fall 2023
+- [UofT Quantum Computing Club: qLearn (Algorithms) Series Winter 2023](https://learn.qiskit.org/syllabus/0ZS-WK3)
 
 Academic community involvement
 
-- [UofT Mathematics Specialist First-year learning community: AY 2023-2024]()
-- [CS Undergraduate Theory Society @ UofT: Winter 2024]()
-- [UofT Quantum Computing Club: AYs 2021-2024]()
-- [QSITE Conference 2022-23]()
+- UofT Math Specialist First-year learning community: 2023-2024
+- CS Undergraduate Theory Society @ UofT: Winter 2024
+- [UofT Quantum Computing Club: AYs 2021-2024](https://www.instagram.com/uoft.quantum/)
+- [QSITE Conference 2022-24](https://www.qsiteconf.ca/)
