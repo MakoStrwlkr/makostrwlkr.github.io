@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New website layout is live! Click [here](https://www.cs.toronto.edu/~arka/) or [here](arkaprava.me) for old website.
+New website layout is live! Click [here](https://www.cs.toronto.edu/~arka/) or [here](http://individual.utoronto.ca/arkaprava/) for old website.
