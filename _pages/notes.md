@@ -5,7 +5,7 @@ permalink: /notes/
 description: Some short notes from over the years.
 nav: true
 nav_order: 4
-display_categories: [work, fun]
+display_categories: [notes]
 horizontal: false
 ---
 

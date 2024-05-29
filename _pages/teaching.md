@@ -11,6 +11,9 @@ nav_order: 6
 
 <!-- Organize your courses by years, topics, or universities, however you like! -->
 
+This page is a work in progress. I will be adding my teaching material for some of these activities shortly,
+but for now, these links redirect to existing webpages on other websites.
+
 Teaching
 
 - [CSC310 Information Theory teaching assistant: Winter 2024](https://q.utoronto.ca/courses/334543)
