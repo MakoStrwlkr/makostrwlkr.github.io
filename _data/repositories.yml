@@ -1,12 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - MakoStrwlkr
+  # - torvalds
+  # - alshedivat
+# github_repos:
+#   - MakoStrwlkr/makostrwlkr.github.io
+# - alshedivat/al-folio
+# - twbs/bootstrap
+# - jekyll/jekyll
+# - jquery/jquery
+# - FortAwesome/Font-Awesome
+# - jpswalsh/academicons
+# - mathjax/MathJax
