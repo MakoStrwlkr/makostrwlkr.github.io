@@ -4,8 +4,8 @@ title: miscellaneous
 permalink: /misc/
 description: An assortment of miscellaneous content from over the years.
 nav: false
-nav_order: 0
-display_categories: [compsci, math, work, fun]
+nav_order:
+display_categories: [fun]
 horizontal: false
 ---
 

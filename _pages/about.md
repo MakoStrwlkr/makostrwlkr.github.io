@@ -6,7 +6,7 @@ subtitle: <a href='#'>University of Toronto</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me_pic.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>555 your office number</p>
@@ -18,9 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to my webpage! I am an undergraduate at the University of Toronto, studying computer science and maths, plus dabbling in physics occassionally. I am interested in quantum computing (Hamiltonian simulation and quantum information), theoretical computer science (hardness of approximation and complexity theory) and related areas of mathematics (operator algebras and discrete mathematics).
+Welcome to my webpage! I am an incoming graduate student at the [Department of Combinatorics & Optimisation](https://uwaterloo.ca/combinatorics-and-optimization), at the [University of Waterloo](https://uwaterloo.ca/), supervised by [Prof. Lap Chi Lau](https://cs.uwaterloo.ca/~lapchi/), where I will be working on spectral graph theory.
 
-Feel free to reach out, as I am always eager to learn more!
+My other interests include applications of operator algebras to theoretical CS, quantum information theory, and coding theory. I previously completed my H.BS. from the University of Toronto, studying computer science, mathematics, and physics, where I focused on quantum algorithms. Feel free to reach out, as I am always eager to learn more!
 
 In my free time, I like to play chess (check out [my opening study](https://lichess.org/study/EOAymW9A)!) or [shogi](https://lishogi.org/@/makostrwlkr).
 
