@@ -24,5 +24,5 @@ Academic community involvement
 
 - UofT Math Specialist First-year learning community: 2023-2024
 - CS Undergraduate Theory Society @ UofT: Winter 2024
-- [UofT Quantum Computing Club: AYs 2021-2024](https://www.instagram.com/uoft.quantum/)
+- UofT Quantum Computing Club: AYs 2021-2024
 - [QSITE Conference 2022-24](https://www.qsiteconf.ca/)
