@@ -2,8 +2,9 @@ github_users:
   - MakoStrwlkr
   # - torvalds
   # - alshedivat
-# github_repos:
-#   - MakoStrwlkr/makostrwlkr.github.io
+github_repos:
+  - tequilahub/tequila
+  - mentpy/mentpy
 # - alshedivat/al-folio
 # - twbs/bootstrap
 # - jekyll/jekyll

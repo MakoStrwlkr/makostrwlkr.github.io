@@ -140,7 +140,7 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: MakoStrwlkr/website_comments # <your-github-user-name>/<your-github-repo-name>
+  repo: MakoStrwlkr/makostrwlkr.github.io # <your-github-user-name>/<your-github-repo-name>
   repo_id: R_kgDOL_ZzKg # leave empty or specify your repo_id (see https://giscus.app/)
   category: Announcements # name of the category under which discussions will be created
   category_id: DIC_kwDOL_ZzKs4CfjUA # leave empty or specify your category_id (see https://giscus.app/)
