@@ -11,4 +11,4 @@ I completed my H.BS. with High Distinction from [Trinity College](https://www.tr
 Here is a link to a blog post (coming soon) about my time as an undergrad at UofT's CS Theory group,
 and also promises to myself for my upcoming time as a grad student at UW.
 
-[Reflectiona and Resolutions - An Undergrad Tale](../../blog/2024/rant)
+[Reflectiona and Resolutions - An Undergrad Tale](https://makostrwlkr.github.io/blog/2024/rant/)
