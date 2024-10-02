@@ -1,14 +1,14 @@
 ---
 layout: post
-title: UofT HBS with High Distinction at Trinity!
+title: I completed my undergrad at UofT
 date: 2024-06-21 11:59:00-0400
 inline: false
 related_posts: false
 ---
 
-I recently graduated from UofT's HBSc with High Distinction! :sparkles: :smile:
+I completed my H.BS. with High Distinction from [Trinity College](https://www.trinity.utoronto.ca/) at [UofT](https://www.utoronto.ca/)! :sparkles: :smile:
 
-# Reflections and resolutions
+Here is a link to a blog post (coming soon) about my time as an undergrad at UofT's CS Theory group,
+and also promises to myself for my upcoming time as a grad student at UW.
 
-Watch this space for an blog post (coming soon) about my time as an undergrad at UofT's CS Theory group.
-And also promises to myself for my upcoming time as a grad student at UofW.
+[Reflectiona and Resolutions - An Undergrad Tale](../../blog/2024/rant)
