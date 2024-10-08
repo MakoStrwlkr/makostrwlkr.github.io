@@ -17,8 +17,8 @@ but for now, these links redirect to existing webpages on other websites.
 Teaching
 
 - [CSC310 Information Theory teaching assistant: Winter 2024](https://q.utoronto.ca/courses/334543)
-- UofT Quantum Computing Club: qLearn (Algorithms) Series Fall 2023
-- [UofT Quantum Computing Club: qLearn (Algorithms) Series Winter 2023](https://learn.qiskit.org/syllabus/0ZS-WK3)
+- [UofT Quantum Computing Club: qLearn (Algorithms) Series Fall 2023](https://learn.qiskit.org/syllabus/0ZS-WK3)
+- [UofT Quantum Computing Club: qLearn (Algorithms) Series Winter 2023](https://www.youtube.com/playlist?list=PLLVljGR3SZsUozdHbMFDztBq6Z2txNTzn)
 
 Academic community involvement
 
