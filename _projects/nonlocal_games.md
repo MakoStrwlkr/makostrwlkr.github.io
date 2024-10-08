@@ -1,6 +1,6 @@
 ---
 layout: page
-title: C*-algebras and nonlocal games
+title: C*-algebras and games
 description: Quantum strategies for imitation games
 img:
 importance: 1

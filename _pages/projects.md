@@ -5,7 +5,7 @@ permalink: /projects/
 description: (WIP) A selection of some cool things I have worked on over the years.
 nav: true
 nav_order: 3
-display_categories: [compsci, math, fun]
+display_categories: [compsci, math]
 horizontal: false
 ---
 

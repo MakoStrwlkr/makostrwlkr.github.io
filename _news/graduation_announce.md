@@ -6,9 +6,9 @@ inline: false
 related_posts: false
 ---
 
-I completed my H.BS. with High Distinction from [Trinity College](https://www.trinity.utoronto.ca/) at [UofT](https://www.utoronto.ca/)! :sparkles: :smile:
+I completed my HBSc with High Distinction from [Trinity College](https://www.trinity.utoronto.ca/) at [UofT](https://www.utoronto.ca/)! :sparkles: :smile:
 
 Here is a link to a blog post (coming soon) about my time as an undergrad at UofT's CS Theory group,
 and also promises to myself for my upcoming time as a grad student at UW.
 
-[Reflectiona and Resolutions - An Undergrad Tale](https://makostrwlkr.github.io/blog/2024/rant/)
+[Reflections and Resolutions - An Undergrad Tale](https://makostrwlkr.github.io/blog/2024/rant/)
