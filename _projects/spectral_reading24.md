@@ -15,3 +15,4 @@ This page collects material I compiled over the course of a reading group in Pro
 - - A previous version of these notes had an error in Proposition 2.7. This has now been fixed.
 - - <a href="/assets/docs/FP-presentation-4-updated.pdf">Handwritten notes from the presentation itself</a>
 - (To be added this weekend) Notes for a presentation on Gaussian random matrices and intro to strong convergence
+- (To be added next weekend) Notes on computing the norm of a free operator on Fock space via FPT

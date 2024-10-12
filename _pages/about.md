@@ -8,7 +8,8 @@ profile:
   align: right
   image: me_pic.jpg
   image_circular: false # crops the image to make it circular
-  # more_info: >
+  more_info: >
+    <p>photo: me at Trinity, 2023</p>
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
