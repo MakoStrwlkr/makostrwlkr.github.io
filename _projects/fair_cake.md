@@ -2,7 +2,7 @@
 layout: page
 title: Online cake cutting
 description: Fair online divisible resource allocation
-img:
+img: /assets/img/12.jpg
 importance: 2
 category: compsci
 giscus_comments: true

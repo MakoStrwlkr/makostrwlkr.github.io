@@ -2,7 +2,6 @@
 layout: page
 title: Nonunitary embeddings
 description: Quantum simulator programming
-img:
 importance: 3
 category: compsci
 giscus_comments: true

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Fall 2024 reading group
-description: Free probability theory + matrix inequalities and spectral graph theory
-img:
+description: For matrix inequalities and spectral graph theory
+img: /assets/img/12.jpg
 importance: 1
 category: compsci
 giscus_comments: true
