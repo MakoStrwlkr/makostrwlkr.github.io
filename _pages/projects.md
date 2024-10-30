@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: (WIP) A subset of some cool things I did over the years
+description: (WIP) A selection of some cool things I have worked on over the years.
 nav: true
 nav_order: 3
 display_categories: [compsci, math]

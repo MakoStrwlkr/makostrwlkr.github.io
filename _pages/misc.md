@@ -5,7 +5,7 @@ permalink: /misc/
 description: An assortment of miscellaneous content from over the years.
 nav: false
 nav_order:
-display_categories: [fun]
+display_categories: [lists, fun]
 horizontal: false
 ---
 

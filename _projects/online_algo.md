@@ -2,7 +2,7 @@
 layout: page
 title: Online algorithms
 description: Summer 2022 research summary
-img: /assets/img/12.jpg
+img:
 importance: 4
 category: compsci
 giscus_comments: true
