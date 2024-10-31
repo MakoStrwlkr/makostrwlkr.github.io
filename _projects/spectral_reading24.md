@@ -14,6 +14,6 @@ This page collects material I compiled over the course of a reading group in Pro
 - <a href="/assets/docs/FP-notes-4.pdf">Typeset notes accompanying a presentation on the R-transform, free convolutions, products of free elements</a>
 - - A previous version of these notes had an error in Proposition 2.7. This has now been fixed.
 - - <a href="/assets/docs/FP-presentation-4-updated.pdf">Handwritten notes from the presentation itself</a>
-- - <a href="/assets/docs/FP-notes-6.pdf">Typset notes accompanying a presentation introducing operator-valued FPT</a>
+- <a href="/assets/docs/FP-notes-6.pdf">Typset notes accompanying a presentation introducing operator-valued FPT</a>
 - (To be added next weekend) Notes on computing the norm of a free operator on Fock space via FPT
 - (To be added this weekend) Notes for a presentation on Gaussian random matrices and intro to strong convergence
