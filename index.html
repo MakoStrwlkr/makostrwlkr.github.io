@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>mako.log</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&amp;family=IBM+Plex+Sans:wght@400;500;600&amp;family=Space+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css">
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.js"></script>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/auto-render.min.js"></script>
+<link rel="icon" href="assets/img/cat.ico">
+<link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+<header class="site"><div class="wrap"><div class="brand-row">
+<a class="brand" href="index.html"><span class="seal" aria-hidden="true">真</span><span class="handle">@<b>mako</b>.log</span></a>
+<nav class="nav"><a href="index.html" aria-current="page">home</a><a href="notes/index.html">notes</a><a href="blog/index.html">blog</a><a href="resources.html">resources</a><a href="about.html">about</a><a href="search.html">search</a></nav>
+</div></div></header>
+<main><div class="wrap">
+<section class="hero">
+<div class="floaters" id="floaters" aria-hidden="true"></div>
+<div class="hero-photo" tabindex="0" role="img" aria-label="Portrait (hover to swap)">
+<img class="p1" src="assets/img/photo-1.jpg" alt="">
+<img class="p2" src="assets/img/photo-2.jpg" alt="">
+</div>
+<div class="hero-body"><div class="env"><span class="brace">\begin{</span>theorem<span class="brace">}</span></div><h1>@<b>mako</b>.log<span class="cursor"></span></h1>
+<p>shogi lines, quantum states, and whatever's on the timeline. notes on the technical side, a blog for everything else — 将棋 &middot; games &middot; anime &middot; netslang &middot; <code>crypto</code> &amp; <code>|&psi;&rang;</code>.</p></div>
+</section>
+<section class="browse"><p class="cap"><span class="brace">%</span> browse by topic</p>
+<p class="topics"><a href="search.html?cat=shogi">shogi</a> &middot; <a href="search.html?cat=gaming">gaming</a> &middot; <a href="search.html?cat=anime">anime</a> &middot; <a href="search.html?cat=netslang">netslang</a> &middot; <a href="search.html?cat=math">math</a> &middot; <a href="search.html?cat=quantum">quantum</a> &middot; <a href="search.html?cat=security">security</a></p></section>
+<h2 class="section-label"><span class="brace">\section{</span>recent activity<span class="brace">}</span></h2>
+<a class="row" href="notes/cayley-graphs.html"><span class="d">07.28</span><span class="t">Cayley graphs are just group gossip</span><span class="badge note">note</span></a>
+</div></main>
+<footer><div class="wrap"><span>&copy; <span class="yr"></span> @makostrwlkr</span><span><span class="brace">%</span> static site &middot; KaTeX-powered</span></div></footer>
+<script>
+document.querySelectorAll(".yr").forEach(function(e){e.textContent=new Date().getFullYear();});
+(function ts(n){if(window.renderMathInElement){renderMathInElement(document.body,{delimiters:[{left:"$$",right:"$$",display:true},{left:"$",right:"$",display:false}],throwOnError:false});}else if(n<60){setTimeout(function(){ts(n+1);},100);}})(0);
+</script>
+<script>(function(){var F=document.getElementById("floaters");if(!F)return;var eqs=["\u03bb\u2082","\u03c4(ab)","L=D-A","\u03c1\u22650","spec(G)","\u229e","\u03bc_sc","GUE","\u2135\u2080","\u22a4","\u22a5","\u220e"];var cols=[8,32,66,90];for(var i=0;i<9;i++){var s=document.createElement("span");s.textContent=eqs[i%eqs.length];s.style.left=(cols[i%cols.length]+Math.random()*8)+"%";s.style.top=(Math.random()*74+10)+"%";s.style.fontSize=(16+Math.random()*16)+"px";s.style.animationDuration=(7+Math.random()*6)+"s";s.style.animationDelay=(-Math.random()*7)+"s";F.appendChild(s);}})();</script>
+</body>
+</html>

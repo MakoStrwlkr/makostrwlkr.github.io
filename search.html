@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Search — mako.log</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&amp;family=IBM+Plex+Sans:wght@400;500;600&amp;family=Space+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css">
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.js"></script>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/auto-render.min.js"></script>
+<link rel="icon" href="assets/img/cat.ico">
+<link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+<header class="site"><div class="wrap"><div class="brand-row">
+<a class="brand" href="index.html"><span class="seal" aria-hidden="true">真</span><span class="handle">@<b>mako</b>.log</span></a>
+<nav class="nav"><a href="index.html">home</a><a href="notes/index.html">notes</a><a href="blog/index.html">blog</a><a href="resources.html">resources</a><a href="about.html">about</a><a href="search.html" aria-current="page">search</a></nav>
+</div></div></header>
+<main><div class="wrap">
+<div class="pagehead"><div class="eyebrow">client-side, no backend</div>
+<h1>Search</h1><p class="lead">Searches every note, post, and resource at once — runs entirely in your browser against <code>search-index.json</code>.</p></div>
+<label class="search"><span class="prompt" aria-hidden="true">/</span>
+<input id="q" type="search" placeholder="search notes, posts, files…" autocomplete="off" aria-label="Search"><span class="count" id="count"></span></label>
+<div class="filters"><div class="type-toggle" id="types"></div><div class="koma-row" id="komas" role="group" aria-label="Filter by category"></div></div>
+<div id="results"></div>
+<div class="empty" id="empty"><p>Nothing matches. Try a different word, type, or topic.</p></div>
+</div></main>
+<footer><div class="wrap"><span>&copy; <span class="yr"></span> @makostrwlkr</span><span><span class="brace">%</span> static site &middot; KaTeX-powered</span></div></footer>
+<script>
+document.querySelectorAll(".yr").forEach(function(e){e.textContent=new Date().getFullYear();});
+(function ts(n){if(window.renderMathInElement){renderMathInElement(document.body,{delimiters:[{left:"$$",right:"$$",display:true},{left:"$",right:"$",display:false}],throwOnError:false});}else if(n<60){setTimeout(function(){ts(n+1);},100);}})(0);
+</script>
+<script src="assets/js/search.js"></script>
+</body>
+</html>

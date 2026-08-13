@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Cayley graphs are just group gossip",
+    "url": "notes/cayley-graphs.html",
+    "type": "note",
+    "cat": "math",
+    "date": "2026-07-28",
+    "tags": [
+      "combinatorics",
+      "groups",
+      "spectral"
+    ],
+    "excerpt": "A group plus a set of generators is secretly a graph where every vertex has the same view — and that symmetry is why the spectral machinery works.",
+    "text": "Handed a group $G$ and a symmetric generating set $S$, you get a graph for free. \\begin{ definition } &mdash; Cayley graph For a group $G$ and symmetric $S \\subseteq G$ (so $s \\in S \\Rightarrow s^{-1} \\in S$), the Cayley graph $\\mathrm{Cay}(G,S)$ has vertex set $G$ and an edge $\\{g,h\\}$ whenever $g^{-1}h \\in S$. The setup Adjacency is a one-liner: $A_{g,h} = 1 \\iff g^{-1}h \\in S$. Symmetry of $S$ makes the graph undirected and $|S|$-regular. Why every vertex looks the same Left-multiplication by $a \\in G$ sends $g \\mapsto ag$ and preserves adjacency, since $(ag)^{-1}(ah) = g^{-1}h$. So $G$ acts on its own Cayley graph by automorphisms, transitively. Stand on any vertex and the neighbourhood looks identical. That is the property every averaging argument quietly leans on. A tiny example Take $\\mathbb{Z}_n$ with $S=\\{\\pm 1\\}$ and you have drawn a cycle $C_n$: def adjacent(g, h, S, n): return (h - g) % n in S # additive group: g^{-1}h is h - g Where the spectrum comes in For abelian $G$ the eigenvalues are character sums, $\\lambda_\\chi = \\sum_{s \\in S}\\chi(s)$, so you read the spectral gap straight off the generators — and the gap controls mixing and expansion."
+  },
+  {
+    "title": "example-script.py",
+    "url": "resources/example-script.py",
+    "type": "resource",
+    "cat": "math",
+    "date": "2026-07-01",
+    "tags": [
+      "py"
+    ],
+    "excerpt": "Placeholder — a tiny Cayley-graph adjacency demo. Swap for your own scripts.",
+    "text": "Placeholder — a tiny Cayley-graph adjacency demo. Swap for your own scripts."
+  },
+  {
+    "title": "example.pdf",
+    "url": "resources/example.pdf",
+    "type": "resource",
+    "cat": "quantum",
+    "date": "2026-06-20",
+    "tags": [
+      "pdf"
+    ],
+    "excerpt": "Placeholder PDF handout. Replace with lecture notes, slides, or write-ups.",
+    "text": "Placeholder PDF handout. Replace with lecture notes, slides, or write-ups."
+  },
+  {
+    "title": "a field guide to “w”, kusa, and 草",
+    "url": "blog/w-kusa-grass.html",
+    "type": "post",
+    "cat": "netslang",
+    "date": "2026-05-03",
+    "tags": [
+      "jp-net",
+      "glossary"
+    ],
+    "excerpt": "Why a serious Japanese thread suddenly sprouts a lawn — a short genealogy of online laughter.",
+    "text": "Japanese www is laughter: warai (笑), clipped to a single w and stacked for volume. A wall of wwww looks like blades of grass, so people started writing 草 — literally “grass” — to mean the same thing. Escalate to 大草原 (“vast grassland”) and you have hit full ROFL. So when a grim thread abruptly grows a lawn, now you know what is being planted."
+  }
+]

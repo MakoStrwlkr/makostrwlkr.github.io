@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Example notes template — mako.log</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&amp;family=IBM+Plex+Sans:wght@400;500;600&amp;family=Space+Mono:wght@400;700&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css">
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.js"></script>
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/auto-render.min.js"></script>
+<link rel="icon" href="../assets/img/cat.ico">
+<link rel="stylesheet" href="../assets/css/main.css">
+</head>
+<body>
+<header class="site"><div class="wrap"><div class="brand-row">
+<a class="brand" href="../index.html"><span class="seal" aria-hidden="true">真</span><span class="handle">@<b>mako</b>.log</span></a>
+<nav class="nav"><a href="../index.html">home</a><a href="../notes/index.html" aria-current="page">notes</a><a href="../blog/index.html">blog</a><a href="../resources.html">resources</a><a href="../about.html">about</a><a href="../search.html">search</a></nav>
+</div></div></header>
+<main><div class="wrap">
+<article class="single">
+<a class="backlink" href="index.html">all notes</a>
+<div class="article-head">
+<div><h1>Example note title</h1>
+<div class="article-meta"><span class="date">2026.01.01</span> &middot; category &middot; 1 min &middot; <span class="tag">tag</span></div></div></div>
+<div class="prose">
+<!-- COPY THIS FILE to notes/your-slug.html, then edit the title/meta above and the prose below.
+     Inline math: $a^2+b^2=c^2$.  Display math: $$e^{i\pi}+1=0.$$
+     Boxes: <div class="box def"><span class="box-label">Definition</span><p>…</p></div>
+     Also add a matching card to notes/index.html and an entry to search-index.json (see README). -->
+<p>Replace me with your first paragraph. Inline math like $\lambda_1$ renders automatically.</p>
+<div class="box def"><span class="box-label">Definition</span><p>Boxes come in <code>.box</code>, <code>.box.def</code>, and <code>.box.thm</code> flavours.</p></div>
+<p>A display equation:</p>
+$$\textstyle\sum_{k=1}^{n} k = \frac{n(n+1)}{2}.$$
+</div>
+</article>
+</div></main>
+<footer><div class="wrap"><span>&copy; <span class="yr"></span> @makostrwlkr</span><span><span class="brace">%</span> static site &middot; KaTeX-powered</span></div></footer>
+<script>
+document.querySelectorAll(".yr").forEach(function(e){e.textContent=new Date().getFullYear();});
+(function ts(n){if(window.renderMathInElement){renderMathInElement(document.body,{delimiters:[{left:"$$",right:"$$",display:true},{left:"$",right:"$",display:false}],throwOnError:false});}else if(n<60){setTimeout(function(){ts(n+1);},100);}})(0);
+</script>
+
+</body>
+</html>
